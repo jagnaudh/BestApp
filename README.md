@@ -11,8 +11,8 @@ Functionality:
 
 * Users can enter Bill amount and choose the Tip %. In addition, users can also split the bill among friends!
 * Default Tip % is set to 10%
-* Default Split is set tp 1
-* Keyboard is always visible
+* Default Split is set to 1
+* Decimal Keyboard is always visible
 * Users can utilize SliderUI for Tip% and Split functions on a single screen
 
 Here is a Video Walkthrough:
