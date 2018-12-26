@@ -24,7 +24,7 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 Issues:
 
-* Percentage Slider is floating type instead of int - for instance, if users slide to 20.5% it would calculate the tip as 20.5% instead of 20 or 21
+* Percentage Slider is floating type instead of int - for instance, if users slide to a value between 20 and 21 (20.5%) it would calculate the tip as 20.5% instead of either 20 or 21. 
 
 Notes:
 
