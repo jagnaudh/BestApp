@@ -2,8 +2,8 @@ GRATUITY CALCULATOR
 
 Gratuity Calculator is a Tip calculator application for iOS. 
 
-Submitted by: Jagnaudh Bhatia
-Time Spent: 18 hours
+* Submitted by: Jagnaudh Bhatia
+* Time Spent: 18 hours
 
 Functionality:
 
