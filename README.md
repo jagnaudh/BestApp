@@ -16,6 +16,8 @@ Here is a Video Walkthrough:
 
 https://imgur.com/a/Au1TJhX
 
+<img src='https://imgur.com/a/Au1TJhX.gif' />
+
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 Notes:
