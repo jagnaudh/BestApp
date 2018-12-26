@@ -16,7 +16,7 @@ Here is a Video Walkthrough:
 
 https://imgur.com/a/Au1TJhX
 
-<img src='http://i.imgur.com/a/Au1TJhX' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://i.imgur.com/ifcRFCr.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
