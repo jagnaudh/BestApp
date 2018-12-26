@@ -14,7 +14,7 @@ Users can utilize SliderUI for tip% and Split all in One screen
 
 Here is a Video Walkthrough:
 
-<img src= 'http://imgur.com/a/Au1TJhX.gifv' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+https://imgur.com/a/Au1TJhX
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
