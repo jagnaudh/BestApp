@@ -7,10 +7,10 @@ Time Spent: 18 hours
 
 Functionality:
 
-Users can enter Bill amount and choose the Tip %. In addition, users can also split the bill among friends!
-Default Tip % is set to 10%
-Keyboard is always visible
-Users can utilize SliderUI for tip% and Split all in One screen
+* Users can enter Bill amount and choose the Tip %. In addition, users can also split the bill among friends!
+* Default Tip % is set to 10%
+* Keyboard is always visible
+* Users can utilize SliderUI for tip% and Split all in One screen
 
 Here is a Video Walkthrough:
 
