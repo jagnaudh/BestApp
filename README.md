@@ -22,6 +22,10 @@ https://imgur.com/a/Au1TJhX
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
+Issues:
+
+* Percentage Slider is floating type instead of int - for instance, if users slide to 20.5% it would calculate the tip as 20.5% instead of 20 or 21
+
 Notes:
 
 One of the major challenges I faced whilst developing Gratuity Calculator was to make sense of the swift and xcode interface.
